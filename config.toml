@@ -1,0 +1,41 @@
+baseurl = "loveway.one"
+languageCode = "en-us"
+title = "Love is the Way to All"
+theme = "hugo-theme-learn"
+
+
+[taxonomies]
+  tag = "tags"
+  category = "categories"
+  series = "series"
+
+[params]
+  subtitle = "Hugo is Absurdly Fast!"
+  author = "John Doe"
+
+[outputs]
+  home = [ "HTML", "RSS", "JSON"]
+
+
+# "More" menu items
+[[menu.shortcuts]] 
+  name = "<i class='fa fa-github'></i> Github repo"
+  identifier = "ds"
+  url = "https://github.com/matcornic/hugo-theme-learn"
+  weight = 10
+
+[[menu.shortcuts]]
+  name = "<i class='fa fa-camera'></i> Showcases"
+  url = "/showcase"
+  weight = 11
+
+[[menu.shortcuts]]
+  name = "<i class='fa fa-bookmark'></i> Hugo Documentation"
+  identifier = "hugodoc"
+  url = "https://gohugo.io/"
+  weight = 20
+
+[[menu.shortcuts]]
+  name = "<i class='fa fa-bullhorn'></i> Credits"
+  url = "/credits"
+  weight = 30
