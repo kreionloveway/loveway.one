@@ -1,4 +1,4 @@
-baseurl = "loveway.one"
+baseurl = "www.loveway.one"
 languageCode = "en-us"
 title = "Love is the Way to All"
 theme = "hugo-theme-learn"
@@ -10,8 +10,8 @@ theme = "hugo-theme-learn"
   series = "series"
 
 [params]
-  subtitle = "Hugo is Absurdly Fast!"
-  author = "John Doe"
+  subtitle = "Claim Your Power Through Radical Self-Knowledge"
+  author = "K.I. Loveway"
 
 [outputs]
   home = [ "HTML", "RSS", "JSON"]
@@ -21,21 +21,10 @@ theme = "hugo-theme-learn"
 [[menu.shortcuts]] 
   name = "<i class='fa fa-github'></i> Github repo"
   identifier = "ds"
-  url = "https://github.com/matcornic/hugo-theme-learn"
+  url = "https://github.com/kreionloveway/loveway.one"
   weight = 10
 
-[[menu.shortcuts]]
-  name = "<i class='fa fa-camera'></i> Showcases"
-  url = "/showcase"
-  weight = 11
-
-[[menu.shortcuts]]
-  name = "<i class='fa fa-bookmark'></i> Hugo Documentation"
-  identifier = "hugodoc"
-  url = "https://gohugo.io/"
-  weight = 20
-
-[[menu.shortcuts]]
-  name = "<i class='fa fa-bullhorn'></i> Credits"
-  url = "/credits"
-  weight = 30
+[[menu.shortcuts]] 
+  name = "Questions? Comments?<br /><img src='/img/email_white.png' width='220px'>"
+  url = "mailto:?subject=Regarding%20Loveway.one"
+  weight = 12

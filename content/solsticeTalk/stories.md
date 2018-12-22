@@ -1,0 +1,30 @@
++++
+title = "The Power of Names and Stories"
+date =  2018-12-21T21:06:56-07:00
+weight = 4
+pre = "<b>δ. </b>"
+LastModifierDisplayName = "Kreion"
+LastModifierEmail = "<kreion@loveway.one>"
++++
+
+### Metaphorical Vision
+
+Let’s all agree to disagree about certain ideas and phrasing that I’m using here. Whatever traditions you’re working with, I think we can all agree that there’s something powerful happening within our minds and our bodies that we can’t describe using words. Our people are awakening and evolving so rapidly that no ancient tradition can hold all the answers. There’s wisdom in teachings everywhere, but what’s given to you by other people will only get you so far. The most sustainable sources of power are those you create yourself. The same is true for any wisdom that you did not come by honestly. Unless you create your own stories, your own rituals, and your own tools, you’ll be dependent upon certain external circumstances remaining consistent in order to use those tools. The same goes for plant medicine as it does for totems, guides, and gurus. Only you can free your mind. Here are a few stories that might help along the way.
+
+Each of these practices and ideas is just a story. It’s all just stories, but that doesn’t make it un-true. Be honest with yourself, know yourself, and every story becomes a metaphor guiding you to higher truth.
+
+### Relationships with Your Stories
+As you evaluate the stories and practices you develop, it can be extremely helpful to focus on two things: First, watch out for synchronicity, or certain themes that crop up in your life over and over again. Pay attention to numbers, symbols, dejá vú, and other ways that the subconscious might be trying to talk to you. You already have access to so much information that is buried in your subconscious. It’s trying to bubble to the surface in a usable form. Pay attention, give it feedback, and that deeper wisdom will become more clear. Second, allow your stories and other objects to take on a life of their own. Consider - or pretend, if you will - that each thought form you have, each symbol you’re manipulating, carries a life of its own. The power of the creative imagination is such that the more attention you give to symbols, the more they really do take on a life of their own and begin to surprise you with fountains of creativity. Work with a symbol for long enough, infuse it with enough of your essence, and it may become a real force in your life. Personal deity worship, or henotheism, has been practiced in this way since the dawn of history. You can also give your symbols constraints and feedback. Creating smaller, more reliable, mechanical symbols is an art form I’m inventing and choosing to call daemonology.
+
+While it doesn’t entirely matter what you choose to call any given thing, names are still powerful enough that it’s worth taking the time to create them carefully. I say create instead of choose because, ideally, you invent your own language to talk to the universe. Any other word you’ve been taught is surrounded by all these constructs that piggy-back on the word in order to create the context needed to explain it to you in the first place. Only pure sounds and vibrations are free enough of such clutter to carry the necessary accuracy and succinct-ness to evoke pure energies. Using a word is highly preferable to silence because sound is the rawest form of vibration, and the one form that we have the most control over. By creating a new word that means exactly one thing to you and is used the same way over and over, you create a consistent and reliable impression upon your mind field. Once that impression is synced to an energy signature, you can evoke that energy literally on command by recalling to yourself your word of power.
+
+### Spiritual Amnesia
+The final thing I’m going to say about stories is an important counterpoint. It’s important to stay grounded even while your mind expands and becomes more powerful. Secret words and rituals are important, but incomplete until you’ve found some way to share your gifts with others. All the intense experiences and illumination in the world mean nothing if they don’t make it back into physical reality. The difference between a shaman and a madman is that the shaman remembers what they see and finds a way to share it with others. The madman is selfish with their wisdom, and it drives them nuts. 
+
+Spiritual amnesia, or a lack of integration, will plague you until you get good at encoding your experience into physical reality. So share your stories with others! In his Youtube series “Mind Field” (not related to this metaphysics), Vsauce undergoes three days of sensory deprivation and comes to realize:
+
+> “...how important it is to share your experience. If you only have your own experience, you’re not fully having them. You have to have someone else to listen to them and react to them, and then you’ve fully experienced them.”
+
+Spiritual amnesia is more common than anyone remembers. I’ve seen people have powerful visions and then immediately forget them, or witness miracles only to black out. The mind is able to view only what it’s prepared to view, which is why it’s so important for us to practice. You will, over the course of your journey, see and learn so many incredible things that you’ll probably forget. But that’s okay. Because despite all the stories and magical tools, what we’re really training isn’t our egos or our ability to tell stories. We’re training our souls.
+
+These understandings must become reflexive within you, so that you can recall them in your sleep. You’ll know you’re making progress when you begin to practice in your dreams. You’ll know you’re making progress when you begin to see your dreams as metaphoric stories, and interpret them while in the dream. You’ll know you’re making progress when you begin to feel a deepness growing in your soul, an unshakable strength that feeds your life with an overflowing cup. You’ll know you’re making progress when you no longer need the stories.

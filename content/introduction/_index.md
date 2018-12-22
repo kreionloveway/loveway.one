@@ -3,21 +3,19 @@ title = "Introduction"
 date = 2017-12-08T00:12:32-07:00
 weight = 1
 chapter = true
-pre = "<b>I. </b>"
+pre = "<b>Ω. </b>"
 +++
 
-### Chapter X
+# Introduction
 
-# Some Chapter title
+You're playing a game of hide and seek, forgetting your true nature in order to revel in the process of remembrance.
 
-<script src="http://code.jquery.com/jquery-1.4.2.min.js"></script>
-<script>
-  function goBack(){window.history.back();}
-</script>
+This game is but a dream, nested inside another dream. You yourself are the dreamer. No, not your body, you. Not your mind. But your *self*.
 
-You are the divine avatar of the All, the [One, Two, Three, Six, Four, and Five] joined in the middle. You are Love seeking itself. You are infinite but having a finite experience, enlightened but acting the part of the savage. You are the dreamer but always awakening. 
+We all forget the true Self, but isn't it fun to remember? You don't need to be told how to remember, you already know. Just follow your heart.
 
-This is your call. A portal stands before you, beckoning you to leave the safety of comfort and step into the transdimensional Nexus. Will you enter?
+You are powerful. You are creative. You have unique gifts that you are meant to be shared with the world. No one can tell you what those are. No one but you can provide lasting meaning to your life.
 
-## * [Enter](#)
-## * <a href="#" onclick="window.history.back()">Leave</a>
+What secrets lay hidden within the infinite mystery of this game? Perhaps you'll find something beautiful to share with those you love.
+
+The first step to charting the unseen dream is to form a model of one's mind, some kind of story from which future stories can be related. This cornerstone story can change with time, but the changing then becomes part of the story itself. Whatever starting point you choose, the ending remains the same. All roads lead to One.
