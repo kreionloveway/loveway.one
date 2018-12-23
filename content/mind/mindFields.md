@@ -5,5 +5,5 @@ weight = 3
 draft = "true"
 +++
 
-Lorem Ipsum.
+Mind Fields!
 ![Mind field](/img/Mindfield.png)
