@@ -4,7 +4,6 @@ date =  2018-12-21T21:06:38-07:00
 weight = 3
 pre = "<b>γ. </b>"
 LastModifierDisplayName = "Kreion"
-LastModifierEmail = "<kreion@loveway.one>"
 +++
 
 ### Mind Programs and Mind Viruses

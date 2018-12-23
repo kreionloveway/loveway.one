@@ -4,7 +4,6 @@ date =  2018-12-21T21:06:22-07:00
 weight = 2
 pre = "<b>β. </b>"
 LastModifierDisplayName = "Kreion"
-LastModifierEmail = "<kreion@loveway.one>"
 +++
 
 In order to draw the light closer to us we need to make some room for it. Let’s take a peak at

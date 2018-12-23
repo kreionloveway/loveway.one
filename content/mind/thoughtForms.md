@@ -4,7 +4,6 @@ date: 2018-12-18T18:08:30-07:00
 weight: 4
 pre: "<b>I.a. </b>"
 LastModifierDisplayName: "Kreion"
-LastModifierEmail: "<kreion@loveway.one>"
 draft: "true"
 ---
 

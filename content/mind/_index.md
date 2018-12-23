@@ -5,7 +5,6 @@ weight = 4
 chapter = true
 pre = "<b>I. </b>"
 LastModifierDisplayName = "Kreion"
-LastModifierEmail = "<kreion@loveway.one>"
 draft = "true"
 +++
 

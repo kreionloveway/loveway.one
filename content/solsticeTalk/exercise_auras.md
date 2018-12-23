@@ -4,7 +4,6 @@ date =  2018-12-21T21:07:18-07:00
 weight = 6
 pre = "<b>ζ. </b>"
 LastModifierDisplayName = "Kreion"
-LastModifierEmail = "<kreion@loveway.one>"
 +++
 
 * Lay back and relax. Close your eyes and breathe for a moment, allowing your body to ground and become more present.

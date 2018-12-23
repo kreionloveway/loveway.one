@@ -4,7 +4,6 @@ date =  2018-12-21T21:07:06-07:00
 weight = 5
 pre = "<b>ε. </b>"
 LastModifierDisplayName = "Kreion"
-LastModifierEmail = "<kreion@loveway.one>"
 +++
 
 ### Sensory Interpretation is a Learned Behavior

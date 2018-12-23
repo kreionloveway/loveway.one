@@ -4,7 +4,6 @@ date =  2018-12-21T21:06:56-07:00
 weight = 4
 pre = "<b>δ. </b>"
 LastModifierDisplayName = "Kreion"
-LastModifierEmail = "<kreion@loveway.one>"
 +++
 
 ### Metaphorical Vision

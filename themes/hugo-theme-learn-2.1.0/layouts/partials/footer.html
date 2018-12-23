@@ -2,7 +2,6 @@
             </div> <!-- end chapter-->
         {{ end }}
         </div> 
-        {{ partial "custom-comments.html" . }}
       </div>
 
     <div id="navigation">
@@ -47,6 +46,8 @@
             <a class="nav nav-next" href="{{.URL}}" title="{{.Title}}" style="margin-right: 0px;"><i class="fas fa-chevron-right"></i></a>
         {{end}}
     </div>
+
+    {{ partial "custom-comments.html" . }}
 
     </section>
     
