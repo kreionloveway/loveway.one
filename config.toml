@@ -1,7 +1,7 @@
 baseurl = "www.loveway.one"
 languageCode = "en-us"
 title = "Love is the Way to All"
-theme = "hugo-theme-learn"
+theme = "hugo-theme-learn-2.1.0"
 
 
 [taxonomies]
