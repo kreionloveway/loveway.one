@@ -1,6 +1,7 @@
-baseurl = ""
+# baseurl = ""
+baseurl = "https://www.loveway.one"
 languageCode = "en-us"
-title = "Love is the Way to All"
+title = "Love is the Way to One"
 theme = "hugo-theme-learn-2.1.0"
 
 

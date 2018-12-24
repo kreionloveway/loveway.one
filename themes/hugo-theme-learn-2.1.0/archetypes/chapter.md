@@ -1,10 +1,11 @@
 +++
-title = "{{ replace .Name "-" " " | title }}"
+title = "{{ replace .TranslationBaseName "-" " " | title }}"
 date = {{ .Date }}
-weight = 5
+weight = 99
 chapter = true
 pre = "<b>X. </b>"
 LastModifierDisplayName = "Kreion"
+draft = "true"
 +++
 
 ### Chapter X

@@ -1,0 +1,15 @@
+{
+	"folders":
+	[
+		{
+			"path": "content"
+		},
+		{
+			"path": "themes/hugo-theme-learn-2.1.0"
+		}
+	],
+  "settings":
+  {
+      "spell_check": true,
+  }
+}

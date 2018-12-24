@@ -1,7 +1,7 @@
 +++
 title = "Mind Field Mechanics and Meditations"
 date = 2018-12-21T21:04:49-07:00
-weight = 3
+weight = 88
 chapter = true
 pre = "<b>Δ. </b>"
 +++
