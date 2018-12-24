@@ -6,18 +6,26 @@ weight = 0
 
 <img src="img/HEKA logo.png" alt="All is Love" width="200"/>
 
-# Welcome to Loveway.one
+# Loveway.one
 ### An Exploration of Syncretic Metaphysics
 
-You're here because you're curious about the nature of the unseen world. You sense in your bones that there exists something beyond what your senses show you, something that's witnessed only by leaving the realm of ordinary consciousness and stepping into something...strange. No one can give you a satisfactory explanation for what it is you sense out there. Explanations are for the rational mind and can be picked apart as easily as adopting a different point of view. True understanding transcends rationality to come alive within every aspect of your life. It's when an idea begins to surprise and inspire you that you know you're on to something *real*.
+> There are three kinds of people: those who see, those who see when they are shown, those who do not see.  
+-Leonardo da Vinci
 
-The cornerstone of science is replicable results. It's easy to think that metaphysical experiences can't be duplicated, and therefore aren't science-able, but this misconception is based upon the limitations of our awareness. As we learn to see with multidimensional awareness, to experience life both from *here* and from *beyond*, our minds begin to fill in the gaps and finally grasp that ineffable mystery. In time we will build a framework for understanding, remembering, and sharing its secrets. The ultimate purpose of this process is to find something **true**, something **beautiful**, and something **good** to share with the rest of the world.
 
-We are all already enlightened. Our deepest selves know the truths of life but our [persona](https://en.wikipedia.org/wiki/Persona) minds, the parts that have to interact with others, often forget and don't know what do with this knowledge. I'm here to help remind you of what you already know, and to help find some language to bridge the conscious and unconscious awareness.
+Consciousness is the next frontier of exploration. All art and philosophy are part of the effort to bring consciousness out into the world so that we can examine it better. To do so yields advances not just in science and society, but in the quality of the consciousness we pass on to our children. Despite our best efforts, consciousness remains a great mystery.
+
+We all live in the same physical reality, but each of us is in a very different place mentally. The way you think about the world is even more important than where you stand in it, because thoughts are the building blocks that shape habits, actions, and outcomes. Do you know where your thoughts come from? Are your actions simply the product of your memories and sensations? Or do you have free will?
+
+If you're still reading then you must be curious about the nature of your mind. You sense in your bones that there exists something more to consciousness than neurons and electricity. The brain may be a quantum computer, connected to infinite realms of possibilities. Or maybe it's a radio, tuned to a medium that transcends space and time. As evidence builds for the [many worlds hypothesis](https://en.wikipedia.org/wiki/Many-worlds_interpretation), science comes closer to claiming what you've probably already sensed intuitively: we are one link in a chain of many different realities, connected together by the essence of thought. In order to explore and travel between them, we must find new ways to think about and talk about the realm of the mind.
+
+And yet, part of us is already enlightened. Our deepest selves know the truths of life but our [persona](https://en.wikipedia.org/wiki/Persona) minds forget and don't know what do with this knowledge. I'm here to help remind you of what you already know, and to help find some language to bridge the awareness between your enlightened self and your day-to-day self.
+
+There are so many different paths to understanding that at times it can seem like there is no absolute reality to grasp on to, no light at the end of the tunnel. I'm here to remind you that you all rivers lead to the sea. All breath is part of the same wind. If you really think about it, there is really only one life, one mind, and one heart that we all share. We just forget the way to find it. We forget the way back to oneness.
 
 I'm here to remind you that **Love is the Way to One**.
 
-Blessings on your journey,  
+Let's enjoy this journey together.  
 -KrN
 
 <br />  
